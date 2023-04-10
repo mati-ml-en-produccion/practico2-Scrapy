@@ -37,5 +37,4 @@ En Azure vamos a ver cómo usar el [Blob Storage](https://azure.microsoft.com/en
 También vamos a ver cómo usar el [Container Registry](https://azure.microsoft.com/en-us/products/container-registry) para registrar la imagen que buildeamos. 
 
 Por último usaremos [Container Instances](https://azure.microsoft.com/en-us/products/container-instances) para correr nuestra spider en la nube.
-# scrappy
-# scrappy
+
